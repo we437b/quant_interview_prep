@@ -103,3 +103,7 @@ I think a good point to make here is that I do not want to say any number above 
 ## 1.20 
 > ANSWER 
 40 * 40 * 40 -> last one doesn't matter since I can turn it until it opens, so 1600. 
+
+## 1,21
+> ANSWER  
+
