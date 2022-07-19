@@ -112,3 +112,10 @@ Let us assume one thing: the lesser total coins we have, lesser the trials neede
 > ANSWER  
 When two ants collide, that means that the ant that collided effectively inherits the route of the ant that it collided with: that is, if they meet at 30-cm mark, the remaining 70 cm for ant A would be transfereed to ant B. Thus, 100 seconds.
 
+## 1.26 
+> ANSWER  
+remember that 1/16 is 0.0625 and 1/8 is 0.125
+
+## 1.28
+> ANSWER  
+  
