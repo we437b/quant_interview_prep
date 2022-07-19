@@ -104,6 +104,11 @@ I think a good point to make here is that I do not want to say any number above 
 > ANSWER 
 40 * 40 * 40 -> last one doesn't matter since I can turn it until it opens, so 1600. 
 
-## 1,21
+## 1.21
 > ANSWER  
+Let us assume one thing: the lesser total coins we have, lesser the trials needed to isolate the single different coin. Thus, we can separate the coins into 3 parts, labeling them each A, B, C. there can be two scenarios when we weigh two of them: namely A,B without the loss of generality, they are either equal or different. If they are equal, we have 30 coins total that we have to separate the different coin from. In other case, we have 60 coins in which we have the different coin. Let us assume the worst, and think of 60 coins. Now, let the set of heavier coins be A, and the set of lighter coins be B. Again, set aside 10 coins from each group, repeat.
+
+## 1.23
+> ANSWER  
+When two ants collide, that means that the ant that collided effectively inherits the route of the ant that it collided with: that is, if they meet at 30-cm mark, the remaining 70 cm for ant A would be transfereed to ant B. Thus, 100 seconds.
 
